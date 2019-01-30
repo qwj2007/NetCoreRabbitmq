@@ -1,0 +1,11 @@
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\bin\Debug\netcoreapp2.0\ProducerWithDirectExchange.deps.json
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\bin\Debug\netcoreapp2.0\ProducerWithDirectExchange.runtimeconfig.json
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\bin\Debug\netcoreapp2.0\ProducerWithDirectExchange.runtimeconfig.dev.json
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\bin\Debug\netcoreapp2.0\ProducerWithDirectExchange.dll
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\bin\Debug\netcoreapp2.0\ProducerWithDirectExchange.pdb
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.csprojAssemblyReference.cache
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.csproj.CoreCompileInputs.cache
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.AssemblyInfoInputs.cache
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.AssemblyInfo.cs
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.dll
+E:\DotNetCore.RabbitMQ\ProducerWithDirectExchange\obj\Debug\netcoreapp2.0\ProducerWithDirectExchange.pdb

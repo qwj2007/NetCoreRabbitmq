@@ -1,0 +1,10 @@
+E:\DotNetCore.RabbitMQ\Consumer\bin\Debug\netcoreapp2.0\Consumer.deps.json
+E:\DotNetCore.RabbitMQ\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.json
+E:\DotNetCore.RabbitMQ\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+E:\DotNetCore.RabbitMQ\Consumer\bin\Debug\netcoreapp2.0\Consumer.dll
+E:\DotNetCore.RabbitMQ\Consumer\bin\Debug\netcoreapp2.0\Consumer.pdb
+E:\DotNetCore.RabbitMQ\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+E:\DotNetCore.RabbitMQ\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+E:\DotNetCore.RabbitMQ\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfo.cs
+E:\DotNetCore.RabbitMQ\Consumer\obj\Debug\netcoreapp2.0\Consumer.dll
+E:\DotNetCore.RabbitMQ\Consumer\obj\Debug\netcoreapp2.0\Consumer.pdb
